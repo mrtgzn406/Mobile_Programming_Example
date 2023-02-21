@@ -1,0 +1,3 @@
+# Açıklama
+
+Bu projede Java dilini kullanarak bir "Gmail Intent" uygulaması yaptım. Bu uygulama bir arayüz uygulaması , yani uygulamada kullanıcının doldurması gereken alıcı alanı, mesaj başlığı alanı ve mesaj alanı gibi temel e-posta alanları var. Kullanıcı bunları doldurup , "Send" butonuna basar, çıkan seçim ekranında "Gmail" uygulamasını seçer ve böylelikle kullanıcının  arayüzdeki alanlara yazdığı bütün veriler "Gmail" uygulamasındaki alıcı alanı, mesaj başlığı alanı ve mesaj alanı'na aktarılır. 
